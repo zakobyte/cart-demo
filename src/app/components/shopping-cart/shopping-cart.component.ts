@@ -16,7 +16,7 @@ export class ShoppingCartComponent implements OnInit, OnDestroy {
   public cart: Observable<ShoppingCart>;
   public itemCount: number;
 
-  private cartSubscription: Subscription;
+  private cartSubscription1: Subscription;
 
   public constructor(private productsService: ProductsDataService,
                      private shoppingCartService: ShoppingCartService) {
