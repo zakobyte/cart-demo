@@ -12,7 +12,7 @@ import { Subscription } from "rxjs/Subscription";
   templateUrl: "./shopping-cart.component.html"
 })
 export class ShoppingCartComponent implements OnInit, OnDestroy {
-  public products: Observa ble<Product[]>;
+  public products: Observable<Product[]>;
   public cart: Observable<ShoppingCart>;
   public itemCount: number;
 
