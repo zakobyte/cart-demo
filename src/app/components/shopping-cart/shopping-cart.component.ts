@@ -18,7 +18,7 @@ export class ShoppingCartComponent implements OnInit, OnDestroy {
 
   private cartSubscription: Subscription;
 
-  public construtor(private productsService: ProductsDataService,
+  public constructor(private productsService: ProductsDataService,
                      private shoppingCartService: ShoppingCartService) {
   }
 
