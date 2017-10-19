@@ -19,7 +19,7 @@ export class ShoppingCartComponent implements OnInit, OnDestroy {
   private cartSubscription: Subscription;
 
   public constructor(private productsService: ProductsDataService,
-                     private shopptingCartService: ShoppingCartService) {
+                     private shoppingCartService: ShoppingCartService) {
   }
 
   public emptyCart(): void {
