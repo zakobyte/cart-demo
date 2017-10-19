@@ -11,7 +11,7 @@ import { Subscription } from "rxjs/Subscription";
   selector: "app-shopping-cart",
   templateUrl: "./shopping-cart.component.html"
 })
-export class ShoppingCartComponent implements OnInit, OnDestroy {
+export class ShoppingC artComponent implements OnInit, OnDestroy {
   public products: Observable<Product[]>;
   public cart: Observable<ShoppingCart>;
   public itemCount: number;
