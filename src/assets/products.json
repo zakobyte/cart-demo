@@ -2,7 +2,7 @@
   {
     "id": "9aa113b4-1e4e-4cde-bf9d-8358fc78ea4f",
     "price": 3.50,
-    "name": "Greens",
+    "name": "Green - Placeholder",
     "description": "Looking for simple, clean and green? Four of the most nutrient dense leafy greens create the base in our low-sugar Greens 1.",
     "ingredients": [
       {
@@ -26,7 +26,7 @@
   {
     "id": "bdcbe438-ac85-4acf-8949-5627fd5b57df",
     "price": 2.75,
-    "name": "Citrus",
+    "name": "Yellow - Placeholder",
     "description": "This enzyme rich juice is filled with phytonutrients and bromelin which helps to reduce inflammation. Drink it before a meal to get digestive juices flowing.",
     "ingredients": [
       {
@@ -50,7 +50,7 @@
   {
     "id": "58552daa-30f6-46fa-a808-f1a1d7667561",
     "price": 3,
-    "name": "Roots",
+    "name": "Red - Placeholder",
     "description": "Beets help your body to release stomach acid which aids digestion! Drink this juice when you want a snack that's both pretty and nutritious!",
     "ingredients": [
       {
